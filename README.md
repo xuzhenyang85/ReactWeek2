@@ -10,4 +10,6 @@
 [The Seed](https://github.com/xuzhenyang85/ReactWeek2/tree/master/TheSeed "The seed")
 
 ## ex5
-[Facebook Tutorial](https://github.com/xuzhenyang85/ReactWeek2/tree/master/facebooktutorial "Facebook Tutorial")
+[Facebook Tutorial github repository](https://github.com/xuzhenyang85/ReactWeek2/tree/master/facebooktutorial "Facebook Tutorial")
+
+[Deployed version](https://expo.io/@xuzhenyang85/facebooktutorial "Deployed version")
