@@ -1,14 +1,12 @@
 
-![alt text](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routerdemo/src/images/ex1/home.png "Home")
+![alt text](https://user-images.githubusercontent.com/24220232/32082268-c1febe7c-baba-11e7-82c0-f0727e363c54.png "Home")
 
-![alt text](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routerdemo/src/images/ex1/product.png "Product")
+![alt text](https://user-images.githubusercontent.com/24220232/32082269-c21874fc-baba-11e7-9bb1-69bfe9f65b5a.png "Product")
 
-![alt text](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routerdemo/src/images/ex1/product2.png "Product")
+![alt text](https://user-images.githubusercontent.com/24220232/32082270-c236d280-baba-11e7-9f49-bda2366b7d6c.png.png "Product")
 
-![alt text](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routerdemo/src/images/ex1/product3.png "Product")
+![alt text](https://user-images.githubusercontent.com/24220232/32082271-c2b3461c-baba-11e7-9b1d-2c3778c7cb00.png.png "Product")
 
-![alt text](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routerdemo/src/images/ex1/product4.png "Product")
+![alt text](https://user-images.githubusercontent.com/24220232/32082272-c2dea488-baba-11e7-82bf-0c391aadfb6e.png.png "Product")
 
-![alt text](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routerdemo/src/images/ex1/company.png "Company")
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/24220232/32082267-c1e360aa-baba-11e7-9f57-96e75438625f.png.png "Company")
