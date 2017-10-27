@@ -1,7 +1,7 @@
 ##React Routing demo snapshots
 
 ### Home
-![alt text](https://user-images.githubusercontent.com/24220232/32082268-c1febe7c-baba-11e7-82c0-f0727e363c54.png "Home")
+![alt text](https://user-images.githubusercontent.com/24220232/32082268-c1febe7c-baba-11e7-82c0-f0727e363c54.png "Home"){:height="50%" width="50%"}
 
 ### Product
 ![alt text](https://user-images.githubusercontent.com/24220232/32082269-c21874fc-baba-11e7-9bb1-69bfe9f65b5a.png "Product")
