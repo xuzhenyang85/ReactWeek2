@@ -1,6 +1,6 @@
 ##React Routing demo snapshots
 
-### Article
+### ex-1 
 ### Home
 ![alt text](https://user-images.githubusercontent.com/24220232/32083059-330f8222-bac0-11e7-9293-af4ba38da439.png "Home")
 
