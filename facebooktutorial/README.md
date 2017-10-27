@@ -1,1 +1,1 @@
-[facebooktutorial] (https://exp.host/@xuzhenyang85/facebooktutorial)
+[Facebook Tutorial](https://expo.io/@xuzhenyang85/facebooktutorial "Facebook Tutorial")
