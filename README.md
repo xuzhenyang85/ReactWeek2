@@ -1,4 +1,4 @@
-# ReactWeek2 SP ex - Xu Zhen Yang - DAT
+# ReactWeek2 SP ex
 
 ## ex-1
 [Article web](https://github.com/xuzhenyang85/ReactWeek2/tree/master/routing-ex "Article web")
